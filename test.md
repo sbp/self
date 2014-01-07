@@ -1,5 +1,6 @@
 ---
 title:test
+description:foo
 ---
 
 # This is a test
