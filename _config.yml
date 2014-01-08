@@ -1,6 +1,6 @@
 prose:
   metadata:
-    :
+    blah:
       - name: "published"
         field:
           element: "hidden"
