@@ -1,5 +1,10 @@
 ---
+title:foo
 ---
+
+<title>
+{{page.title}}
+</title>
 
 ## A New Post
 
