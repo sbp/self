@@ -1,0 +1,6 @@
+prose:
+  metadata:
+    - name: "published"
+      field:
+        element: "hidden"
+        value: "true"
