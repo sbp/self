@@ -15,17 +15,17 @@ published: true
 ## Do More
 
 - Must either be:
-	- Working on work stuff
-    - Working on bootstrapping task system
-    - Nothing else, all day, until I get this stuff sorted out
+  - Working on work stuff
+  - Working on bootstrapping task system
+  - Nothing else, all day, until I get this stuff sorted out
 - Valid distractions:
-    - _some stuff here_
+  - _some stuff here_
 
 ## clean-teeth
 
 - Must clean teeth twice a day
 - One of those times must include mouth wash and interdental brushes
-	- Doen't apply while traveling
+  - Doen't apply while traveling
 - Steps must be taken to aquire any necessary supplies if missing
 
 ## my-journal
@@ -46,13 +46,13 @@ published: true
 _name needs changing to be about sleep in general_
 
 - Must be in bed and not on laptop by midnight
-    - _Some exceptions might apply_
+  - _Some exceptions might apply_
 - Must not sleep longer than 8 hours
-    - _Some exceptions might apply_
+  - _Some exceptions might apply_
 
 ## clip-nails
 
 _name needs changing to be about self care in general_
 
 - Must clip nails with a clipping tool
-    - Steps must be taken to aquire any necessary supplies if missing
+  - Steps must be taken to aquire any necessary supplies if missing
