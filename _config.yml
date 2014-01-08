@@ -3,5 +3,4 @@ prose:
     blah:
       - name: "published"
         field:
-          element: "hidden"
           value: "true"
