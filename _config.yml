@@ -1,6 +1,0 @@
-prose:
-  metadata:
-    blah:
-      - name: "published"
-        field:
-          value: "true"
